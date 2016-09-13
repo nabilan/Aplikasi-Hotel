@@ -129,7 +129,7 @@ public class MainActivity extends AppCompatActivity {
             tvHasil.setText("Nama Anda                 : " + nama + "\n\n" +
                     "No KTP Anda               : " + noktp + "\n\n" +
                     "No. Telepon Anda          : " + notelp + "\n\n" +
-                    "Anda Memilih Tipe Kamar   : " + sptipekmr.getSelectedItem().toString() + "dengan Jenis Kamar " + spSubkm.getSelectedItem().toString() +"\n\n"+
+                    "Anda Memilih Tipe Kamar   : " + sptipekmr.getSelectedItem().toString() + " dengan Jenis Kamar " + spSubkm.getSelectedItem().toString() +"\n\n"+
                     hasil2 + "\n\n"+
                     "Anda Melakukan Pembayaran : " + hasil + "\n\n"
             );
